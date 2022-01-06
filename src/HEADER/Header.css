@@ -1,4 +1,4 @@
-.app-container {
+.app-header {
   /* background-color: #282c34; */
   /* min-height: 100vh; */
   /* flex-direction: column; */
@@ -6,7 +6,7 @@
   /* justify-content: center; */
   display: flex;
   align-items: center;
-  border: 1px solid rgba(255, 192, 203, 0.281);
+  background-color: rgba(255, 192, 203, 0.123);
   padding: 15px;
 }
 
@@ -31,7 +31,7 @@
 }
 
 .header-text {
-  margin: 0 10px;
+  margin: 0 12px;
   font-size: calc(1px + 5vmin);
   color: rgba(128, 128, 128, 0.884);
 }
