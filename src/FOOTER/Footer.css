@@ -1,0 +1,24 @@
+.app-footer {
+  /* background-color: #282c34; */
+  /* min-height: 100vh; */
+  /* flex-direction: column; */
+  /* align-items: center; */
+  /* justify-content: center; */
+  display: flex;
+  align-items: center;
+  background-color: rgba(255, 192, 203, 0.123);
+  padding: 15px;
+  margin-top: 20px;
+}
+
+.footer-text,
+.ig-icon {
+  margin: 0 5px;
+  font-size: calc(5px + 2vmin);
+  color: rgba(128, 128, 128, 0.884);
+}
+
+.ig-icon:hover {
+  font-size: calc(9px + 2vmin);
+  color: rgb(128, 128, 128);
+}
