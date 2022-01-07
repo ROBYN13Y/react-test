@@ -1,0 +1,12 @@
+.test1-container {
+  display: flex;
+}
+
+.container-left {
+  display: flex;
+  align-items: center;
+}
+
+.logo-icon {
+  height: 40px;
+}
